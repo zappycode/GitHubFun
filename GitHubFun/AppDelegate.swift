@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by zappycode on 6/21/17.
-//  Copyright © 2017 Nick Walter. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
